@@ -8,3 +8,5 @@
 
 - open `ezbio.py`
 
+# Images
+<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/fcd11c5c-f0c7-4696-a54b-f93c3f21c860" />
